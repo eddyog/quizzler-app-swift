@@ -6,7 +6,7 @@
 Trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
 
 ## Purpose 
-The Purpose of the app is to improove my knowledge in the following topics in Swift-IOS13
+The Purpose of the app is to improve my knowledge in the following topics in Swift-IOS13
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
