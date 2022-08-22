@@ -3,9 +3,10 @@
 
 ## What is Quizzler
 
-You will program a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
+Trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
 
-## What I learned
+## Purpose 
+The Purpose of the app is to improove my knowledge in the following topics in Swift-IOS13
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
@@ -18,7 +19,11 @@ You will program a trivia quiz app. If you have another field of expertise such 
 * How to refactor code and stay organised.
 
 
+## Tools
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+Xcode Version 13.2.1
 
-![End Banner](Documentation/readme-end-banner.png)
+All the rights deserve to the course online in UDEMY
+
+### IOS & Swift - The complete IOS App development Bootcamp. By Dr. Angela
+
